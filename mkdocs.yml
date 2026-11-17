@@ -1,0 +1,19 @@
+site_name: Guía básica de HTML
+site_url: https://github.io
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: indigo
+    accent: amber
+
+  nav:
+   - Inicio: index.md
+   - Introducción: introduccion.md
+   - Instalación y requisitos: instalacion.md
+   - Uso y funcionamiento: funcionamiento.md
+   - Conclusiones o mejoras futuras: conclusiones.md
+
+  markdown_extensions:
+   - admonition
+   - codehilite
