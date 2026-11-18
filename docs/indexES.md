@@ -12,3 +12,10 @@ el contenido de una página web mediante etiquetas.
 - Aprender a utilizar sus etiquetas principales.
 - Crear una página web básica.
 - Conocer la estructura de un documento HTML.
+
+## Índice
+1. Inicio
+2. Introducción
+3. Instalación / Requisitos
+4. Uso / Funcionamiento
+5. Conclusiones o mejoras futuras

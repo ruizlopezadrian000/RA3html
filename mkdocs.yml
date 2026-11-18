@@ -8,11 +8,11 @@ theme:
     accent: amber
 
   nav:
-   - Inicio: index.md
-   - Introducción: introduccion.md
-   - Instalación y requisitos: instalacion.md
-   - Uso y funcionamiento: funcionamiento.md
-   - Conclusiones o mejoras futuras: conclusiones.md
+   - Inicio (es): indexES.md
+   - Introducción (es): introduccionES.md
+   - Instalación y requisitos (es): instalacionES.md
+   - Uso y funcionamiento (es): funcionamientoES.md
+   - Conclusiones o mejoras futuras (es): conclusionesES.md
 
   markdown_extensions:
    - admonition
