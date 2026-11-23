@@ -1,5 +1,5 @@
 # Guía de uso de HTML
-<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/ra3ser/RA3html/img/guia.png" width="300" margin="auto">
+<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/guia.png" width="300" margin="auto">
 
 Bienvenido a esta guía de uso de HTML.
 

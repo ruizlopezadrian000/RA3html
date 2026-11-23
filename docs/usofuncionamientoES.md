@@ -1,6 +1,6 @@
 # Uso y funcionamiento del HTML
 ## Uso del HTML
-<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/ra3ser/RA3html/img/usohtml.jpg">
+<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/usohtml.jpg">
 HTML se encarga de estructurar el contenido, hacerlo accesible en distintos dispositivos y servir de base para trabajar con otros lenguajes como CSS o JavaScript.
 
 Un documento HTML nos permite:
@@ -12,7 +12,7 @@ Un documento HTML nos permite:
 - Establecer la estructura semántica que analizan los motores de búsquedas.
 
 ## Funcionamiento del HTML
-<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/ra3ser/RA3html/img/funcionamientohtml.png">
+<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/funcionamientohtml.png">
 
 HTML (*HyperText Markup Language*) es el lenguaje que permite crear y estructurar el contenido de una página web. Su funcionamiento se basa en utilizar etiquetas que indican al navegador qué elementos debe mostrar y cómo están organizados dentro de la página.
 
