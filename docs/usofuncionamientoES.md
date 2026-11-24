@@ -10,7 +10,6 @@ Un documento HTML nos permite:
 - Crear hipervínculos para conectar páginas.
 - Definir formularios para capturar datos del usuario.
 - Establecer la estructura semántica que analizan los motores de búsquedas.
-
 ## Funcionamiento del HTML
 <img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/funcionamientohtml.png">
 
@@ -18,7 +17,7 @@ HTML (*HyperText Markup Language*) es el lenguaje que permite crear y estructura
 
 Cuando se crea una página web con HTML, se escribe el código en un archivo con extensión `.html`, utilizando un editor de texto como Visual Studio Code. Dentro de ese archivo se introducen diferentes etiquetas que permiten añadir títulos, párrafos, imágenes, enlaces, listas y otros elementos.
 
-Una vez creado el documento, el navegador web, como Google Chrome, Firefox o Safari, se encarga de leer e interpretar el código HTML. El navegador reconoce las etiquetas y las utiliza para construir la estructura de la página, mostrando el contenido de una forma que el usuario pueda entender y utilizar.
+Una vez creado el documento, el navegador web, como Google Chrome, Firefox o Safari, se encarga de leer e interpretar el código HTML. El navegador reconoce las etiquetas y las utiliza para construir la estructura de la página, mostrando el contenido de una forma que el usuario pueda entender y utilizar. [1]
 
 ## ¿Cómo se carga una página HTML?
 
@@ -36,15 +35,15 @@ Además, HTML permite organizar la página mediante una estructura formada por d
 
 - **`<html>`:** contiene todo el documento HTML.
 - **`<head>`:** contiene información sobre el documento, como su título o la codificación de caracteres.
-- **`<body>`:** contiene los elementos que aparecen visibles en la página web.
+- **`<body>`:** contiene los elementos que aparecen visibles en la página web.[2]
 
 ## Relación de HTML con otros lenguajes
 
 HTML se puede combinar con otros lenguajes para mejorar el funcionamiento y la apariencia de una página web:
 
 - **CSS:** se utiliza para controlar su apariencia, como los colores, tamaños, fuentes y distribución de los elementos.
-- **JavaScript:** permite añadir interactividad y funciones dinámicas a la página web.
+- **JavaScript:** permite añadir interactividad y funciones dinámicas a la página web. [3]
 ### Fuentes Bibliográficas:
- - https://universidadeuropea.com/blog/que-es-html/
- - https://developer.mozilla.org/es/docs/Web/HTML
-- https://developer.mozilla.org/es/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax
+ - 1: https://universidadeuropea.com/blog/que-es-html/
+ - 2: https://developer.mozilla.org/es/docs/Web/HTML
+- 3: https://developer.mozilla.org/es/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax
