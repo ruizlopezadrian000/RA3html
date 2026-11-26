@@ -9,10 +9,18 @@ theme:
 
   nav:
    - Inicio (es): indexES.md
-   - Introducción (es): introduccionES.md
-   - Instalación y requisitos (es): instalacionES.md
-   - Uso y funcionamiento (es): funcionamientoES.md
+   - Inicio (en): indexEN.md
+   - Introducción (es): IntroduccionES.md
+   - Introducción (en): IntroduccionEN.md
+   - Instalación y requisitos (es): InstalaciónES.md
+   - Instalación y requisitos (en): InstalaciónEN.md
+   - Uso y funcionamiento (es): usofuncionamientoES.md
+   - Uso y funcionamiento (en): usofuncionamientoEN.md
    - Conclusiones o mejoras futuras (es): conclusionesES.md
+   - Conclusiones o mejoras futuras (en): conclusionesEN.md
+   - Estructura de un documento HTML (es): EstructuraHTMLES.md
+   - Estructura de un documento HTML (en): EstructuraHTMLEN.md
+
 
   markdown_extensions:
    - admonition
