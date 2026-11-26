@@ -6,7 +6,11 @@ theme:
     scheme: default
     primary: indigo
     accent: amber
-
+plugins:
+    - search
+      languages:
+        - en
+        - es
   nav:
    - Inicio (es): indexES.md
    - Inicio (en): indexEN.md
@@ -20,7 +24,6 @@ theme:
    - Conclusiones o mejoras futuras (en): conclusionesEN.md
    - Estructura de un documento HTML (es): EstructuraHTMLES.md
    - Estructura de un documento HTML (en): EstructuraHTMLEN.md
-
 
   markdown_extensions:
    - admonition
