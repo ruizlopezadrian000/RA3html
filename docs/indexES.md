@@ -20,4 +20,5 @@ el contenido de una página web mediante etiquetas.
 2. Introducción
 3. Instalación / Requisitos
 4. Uso / Funcionamiento
-5. Conclusiones o mejoras futuras.
+5. Estructura básica de HTML
+6. Conclusiones o mejoras futuras.
