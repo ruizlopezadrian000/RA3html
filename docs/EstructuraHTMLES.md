@@ -1,4 +1,4 @@
-# ESTRUCTURA HTML
+# Estructura HTML ES
 
 ## Básica
 El principio esencial del lenguaje HTML es el uso de las etiquetas. Funcionan así:

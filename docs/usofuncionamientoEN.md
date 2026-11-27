@@ -1,4 +1,4 @@
-# How HTML Is Used and How It Works
+# How HTML Is Used and How It Works EN
 ## Uses of HTML
 <img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/usohtml.jpg">
 HTML is responsible for structuring content, making it accessible on different devices, and serving as a foundation for working with other languages such as CSS or JavaScript.

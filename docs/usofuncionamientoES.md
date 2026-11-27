@@ -1,4 +1,4 @@
-# Uso y funcionamiento del HTML
+# Uso y funcionamiento del HTML ES
 ## Uso del HTML
 <img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/usohtml.jpg">
 HTML se encarga de estructurar el contenido, hacerlo accesible en distintos dispositivos y servir de base para trabajar con otros lenguajes como CSS o JavaScript.

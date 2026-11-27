@@ -6,11 +6,7 @@ theme:
     scheme: default
     primary: indigo
     accent: amber
-plugins:
-    - search
-      languages:
-        - en
-        - es
+    
   nav:
    - Inicio (es): indexES.md
    - Inicio (en): indexEN.md

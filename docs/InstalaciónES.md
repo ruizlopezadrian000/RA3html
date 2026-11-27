@@ -1,4 +1,4 @@
-# INSTALACIÓN Y REQUISITOS
+# INSTALACIÓN Y REQUISITOS ES
 
 ## Tipos de editores
 Editores más conocidos:
@@ -12,7 +12,7 @@ Aspectos clave:
 - La funcionalidad IntelliSense te permite obtener sugerencias de autocompletado en base a los tipos de variables, funciones, etc.
 - Compatibilidad con Git.
 
-<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/SublimeTextInstalacion.webp">
+![alt text](<img/Imagen VisualStudioCodeInstalacion.png>)
 
 **-Sublime Text** es un editor de código abierto gratuito desarrollado por Jon Skinner. Fue lanzado en 2008 y, desde entonces, ha ganado gran popularidad entre los desarrolladores por ser un editor potente y versátil, además de ser una buena opción para aquellos que necesitan una herramienta de alto rendimiento. Se puede descargar gratuitamente u obtener la licencia de pago para un uso más profesional.
 
@@ -24,7 +24,7 @@ Aspectos clave:
 - Su resultado de sintaxis es uno de los mejores del mercado.
 - Consume pocos recursos.
 
-<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/NotepadInstalación.png">
+![alt text](<img/SublimeTextInstalacion.webp>)
 
 **-Notepad++** es un editor de código abierto gratuito lanzado en 2003. Es simple y fácil de usar por su interfaz minimalista e intuitiva, por lo que es una buena opción para principales; además de ofrecer una buena variedad de funciones básicas como también avanzadas (autocompletado, división de pantallas, etc).
 
@@ -34,7 +34,7 @@ Aspectos clave:
 - Rapidez en la carga de archivos por su ligereza.
 - Posibilidad de personalizar atajos de teclado.
 
-<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/AtomInstalación.webp">
+![alt text](<img/Notepad++_Logo.svg.webp>)
 
 **-Atom** es un editor de código abierto desarrollado por GitHub en 2015. A pesar de ser una herramienta reciente, ha logrado posicionarse como uno de los mejores editores de HTML.
 
@@ -44,32 +44,32 @@ Aspectos clave:
 - Puedes trabajar con múltiples ventanas a la vez.
 - El paquete Teletype te permite trabajar con tu equipo en tiempo real. [1]
 
-<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/Imagen VisualStudioCodeInstalacion.png">
+![alt text](<img/Atom_1.0_icon.png>)
 
 
 ## Instalación de Visual Studio Code
 Paso 1: para instalarlo tenemos que ir al sitio web oficial de Visual Studio Code y descargamos la versión adecuada para nuestro equipo.
 
 Paso 2: hacemos click cuando se instale y nos saldrá esto. Le damos a "Acepto el acuerdo" y "Siguiente".
-<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/CapturaInstalacion1.png">
+![alt text](<img/CapturaInstalacion2.png>)
 
 Paso 3: seleccionamos la carpeta y le damos a "Siguiente"
-<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/CapturaInstalacion2.png">
+![alt text](<img/CapturaInstalacion3.png>)
 
 Paso 4: seleccionamos la carpeta y le damos a "Siguiente"
-<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/CapturaInstalacion3.png">
+![alt text](<img/CapturaInstalacion.4.png>)
 
 Paso 5: seleccionamos lo mismo que se ve en la imagen y le damos a "Siguiente"
-<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/CapturaInstalacion.4.png">
+![alt text](<img/CapturaInstalacion.5.png>)
 
 Paso 6: seleccionamos "Instalar"
-<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/CapturaInstalacion.5.png">
+![alt text](<img/CapturaInstalacion.6.png>)
 
 Paso 7: seleccionamos "Finalizar"
-<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/CapturaInstalacion.6.png">
+![alt text](<img/CapturaInstalacion.4.png>)
 
 Paso 8: ya estaría listo [4]
-<img src="/Users/adrianlopezruiz/Desktop/ASIR/2ºASIR/Servicios de red e internet/1 TRIMESTRE/RA3html/img/CapturaInstalacion.7.png">
+![alt text](<img/CapturaInstalacion.4.png>)
 
 
 ## Extensiones recomendadas de Visual Studio Code
